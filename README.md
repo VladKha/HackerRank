@@ -1,0 +1,1 @@
+Code from my solutions to [Hackerrank](https://www.hackerrank.com/) tasks.
