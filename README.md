@@ -1,1 +1,1 @@
-Code from my solutions to [Hackerrank](https://www.hackerrank.com/) tasks.
+Code from my solutions to [Hackerrank](https://www.hackerrank.com/) problems.
