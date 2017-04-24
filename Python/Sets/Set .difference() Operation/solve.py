@@ -1,4 +1,3 @@
-# Set .difference() Operation
 if __name__ == '__main__':
     input()
     a = set(map(int, input().split()))
